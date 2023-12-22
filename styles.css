@@ -1,9 +1,26 @@
 h1 {
     font-size: 50px;
-    color: red;
-    background-color: green;
+    color: black;
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 8px;
 }
 
-ul {
-    font-size: 24px;
+.recipes {
+    display: inline;
+    font-size: 20px;
+}
+
+span {
+    width: 300px;
+    margin: 148px;
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+.images {
+    margin: 100px;
 }
